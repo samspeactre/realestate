@@ -2615,7 +2615,7 @@ label span {
     }
 }
 
-.header .main-menu-wrapper .main-nav>li .submenu>li.has-submenu>a::after {
+/* .header .main-menu-wrapper .main-nav>li .submenu>li.has-submenu>a::after {
     content: "\f054";
     font-family: "font awesome 5 free";
     font-weight: 700;
@@ -2623,7 +2623,7 @@ label span {
     top: 12px;
     right: 20px;
     font-size: 13px
-}
+} */
 
 @media(min-width:992px) {
     .header .main-menu-wrapper .main-nav>li .submenu>li .inner-submenu {
